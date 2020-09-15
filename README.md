@@ -1,3 +1,1 @@
-- 🔭 I’m currently working on javascript projects
-- 🌱 I’m currently learning javascript language
-- 📫 How to reach me: https://t.me/vs200888
+This project is just a beautifully designed list of my works.
